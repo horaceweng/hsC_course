@@ -14,7 +14,7 @@ int to_binary(int x, int y)
 
 int main()
 {
-    int x=7, y=2;
+    int x=63, y=2;
     to_binary(x, y);
 
     printf("\n");
